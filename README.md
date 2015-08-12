@@ -31,6 +31,9 @@ https://uva.onlinejudge.org/external/6/637.pdf
 UVa 1225 - Digit Counting  
 https://uva.onlinejudge.org/external/12/1225.pdf
 
+UVa 1645 - Count  
+https://uva.onlinejudge.org/external/16/1645.pdf
+
 UVa 10019 - Funny Encryption Method  
 https://uva.onlinejudge.org/external/100/10019.pdf
 
