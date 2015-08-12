@@ -43,6 +43,9 @@ https://uva.onlinejudge.org/external/109/10924.pdf
 UVa 11172 - Relational Operator  
 https://uva.onlinejudge.org/external/111/11172.pdf
 
+UVa 11520 - Fill the Square  
+https://uva.onlinejudge.org/external/115/11520.pdf
+
 UVa 11727 - Cost Cutting  
 https://uva.onlinejudge.org/external/117/11727.pdf
 
