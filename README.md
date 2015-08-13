@@ -40,6 +40,9 @@ https://uva.onlinejudge.org/external/100/10019.pdf
 UVa 10071 - Back to High School Physics  
 https://uva.onlinejudge.org/external/100/10071.pdf
 
+UVa 10420 - List of Conquests  
+https://uva.onlinejudge.org/external/104/10420.pdf
+
 UVa 10924 - Prime Words  
 https://uva.onlinejudge.org/external/109/10924.pdf
 
@@ -48,6 +51,12 @@ https://uva.onlinejudge.org/external/111/11172.pdf
 
 UVa 11462 - Age Sort  
 https://uva.onlinejudge.org/external/114/11462.pdf
+
+UVa 11479 - Is this the easiest problem?  
+https://uva.onlinejudge.org/external/114/11479.pdf
+
+UVa 11498 - Division of Nlogonia  
+https://uva.onlinejudge.org/external/114/11498.pdf
 
 UVa 11520 - Fill the Square  
 https://uva.onlinejudge.org/external/115/11520.pdf
