@@ -49,6 +49,18 @@ https://uva.onlinejudge.org/external/109/10924.pdf
 UVa 11172 - Relational Operator  
 https://uva.onlinejudge.org/external/111/11172.pdf
 
+UVa 11207 - The easiest way 
+https://uva.onlinejudge.org/external/112/11207.pdf
+
+UVa 11220 - Decoding the message 
+https://uva.onlinejudge.org/external/112/11220.pdf
+
+UVa 11233 - Deli Deli 
+https://uva.onlinejudge.org/external/112/11233.pdf
+
+UVa 11455 - Behold my quadrangle 
+https://uva.onlinejudge.org/external/114/11455.pdf
+
 UVa 11462 - Age Sort  
 https://uva.onlinejudge.org/external/114/11462.pdf
 
