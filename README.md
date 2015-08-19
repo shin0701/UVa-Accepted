@@ -73,25 +73,25 @@ https://uva.onlinejudge.org/external/114/11498.pdf
 UVa 11520 - Fill the Square  
 https://uva.onlinejudge.org/external/115/11520.pdf
 
-UVa 11530 - SMS Typing
+UVa 11530 - SMS Typing  
 https://uva.onlinejudge.org/external/115/11530.pdf
 
-UVa 11547 - Automatic Answer
+UVa 11547 - Automatic Answer  
 https://uva.onlinejudge.org/external/115/11547.pdf
 
-UVa 11588 - Image Coding
+UVa 11588 - Image Coding  
 https://uva.onlinejudge.org/external/115/11588.pdf
 
-UVa 11650 - Mirror Clock
+UVa 11650 - Mirror Clock  
 https://uva.onlinejudge.org/external/116/11650.pdf
 
-UVa 11677 - Alarm Clock
+UVa 11677 - Alarm Clock  
 https://uva.onlinejudge.org/external/116/11677.pdf
 
-UVa 11713 - Abstract Names
+UVa 11713 - Abstract Names  
 https://uva.onlinejudge.org/external/117/11713.pdf
 
-UVa 11727 - Cost Cutting
+UVa 11727 - Cost Cutting  
 https://uva.onlinejudge.org/external/117/11727.pdf
 
 UVa 11734 - Big Number of Teams will Solve This
