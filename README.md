@@ -97,4 +97,17 @@ https://uva.onlinejudge.org/external/117/11727.pdf
 UVa 11734 - Big Number of Teams will Solve This  
 https://uva.onlinejudge.org/external/117/11734.pdf
 
+UVa 11743 - Credit Check  
+https://uva.onlinejudge.org/external/117/11743.pdf
 
+UVa 11764 - Jumping Mario  
+https://uva.onlinejudge.org/external/117/11764.pdf
+
+UVa 11777 - Automate the Grades  
+https://uva.onlinejudge.org/external/117/11777.pdf
+
+UVa 11799 - Horror Dash  
+https://uva.onlinejudge.org/external/117/11799.pdf
+
+UVa 11830 - Contract Revision  
+https://uva.onlinejudge.org/external/118/11830.pdf
