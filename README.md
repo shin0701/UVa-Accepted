@@ -126,3 +126,9 @@ https://uva.onlinejudge.org/external/118/11875.pdf
 
 UVa 11877 - The Coco-Cola Store  
 https://uva.onlinejudge.org/external/118/11877.pdf
+
+UVa 11878 - Homework Checker  
+https://uva.onlinejudge.org/external/118/11878.pdf
+
+UVa 11936 - The Lazy Lumberjacks  
+https://uva.onlinejudge.org/external/119/11936.pdf
