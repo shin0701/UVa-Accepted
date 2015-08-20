@@ -111,3 +111,18 @@ https://uva.onlinejudge.org/external/117/11799.pdf
 
 UVa 11830 - Contract Revision  
 https://uva.onlinejudge.org/external/118/11830.pdf
+
+UVa 11839 - Optical Reader  
+https://uva.onlinejudge.org/external/118/11839.pdf
+
+UVa 11849 - CD  
+https://uva.onlinejudge.org/external/118/11849.pdf
+
+UVa 11850 - Alaska  
+https://uva.onlinejudge.org/external/118/11850.pdf
+
+UVa 11875 - Brick Game  
+https://uva.onlinejudge.org/external/118/11875.pdf
+
+UVa 11877 - The Coco-Cola Store  
+https://uva.onlinejudge.org/external/118/11877.pdf
