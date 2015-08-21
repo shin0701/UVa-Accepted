@@ -132,3 +132,21 @@ https://uva.onlinejudge.org/external/118/11878.pdf
 
 UVa 11936 - The Lazy Lumberjacks  
 https://uva.onlinejudge.org/external/119/11936.pdf
+
+UVa 11946 - Code Number  
+https://uva.onlinejudge.org/external/119/11946.pdf
+
+UVa 11958 - Coming Home  
+https://uva.onlinejudge.org/external/119/11958.pdf
+
+UVa 11965 - Extra Spaces  
+https://uva.onlinejudge.org/external/119/11965.pdf
+
+UVa 11968 - In The Airport  
+https://uva.onlinejudge.org/external/119/11968.pdf
+
+UVa 11984 - A Change in Thermal Unit  
+https://uva.onlinejudge.org/external/119/11984.pdf
+
+UVa 11991 - Easy Problem from Rujia Liu?  
+https://uva.onlinejudge.org/external/119/11991.pdf
