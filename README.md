@@ -150,3 +150,12 @@ https://uva.onlinejudge.org/external/119/11984.pdf
 
 UVa 11991 - Easy Problem from Rujia Liu?  
 https://uva.onlinejudge.org/external/119/11991.pdf
+
+UVa 12015 - Google is Feeling Lucky  
+https://uva.onlinejudge.org/external/120/12015.pdf
+
+UVa 12019 - Doom's Day Algorithm  
+https://uva.onlinejudge.org/external/120/12019.pdf
+
+UVa 12032 - The Monkey and the Oiled Bamboo  
+https://uva.onlinejudge.org/external/120/12032.pdf
