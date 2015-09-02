@@ -13,6 +13,9 @@ https://uva.onlinejudge.org/external/3/344.pdf
 UVa 483 - Word Scramble  
 https://uva.onlinejudge.org/external/4/483.pdf
 
+UVa 484 - The Department of Redundancy Department  
+https://uva.onlinejudge.org/external/4/484.pdf
+
 UVa 575 - Skew Binary  
 https://uva.onlinejudge.org/external/5/575.pdf
 
@@ -30,6 +33,13 @@ https://uva.onlinejudge.org/external/6/637.pdf
 
 UVa 642 - Word Amalgamation  
 https://uva.onlinejudge.org/external/6/642.pdf
+
+UVa 673 - Parentheses Balance  
+https://uva.onlinejudge.org/external/6/673.pdf
+
+UVa 865 - Substitution Cypher  
+https://uva.onlinejudge.org/external/8/865.pdf (not found!)  
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=806
 
 UVa 1225 - Digit Counting  
 https://uva.onlinejudge.org/external/12/1225.pdf
