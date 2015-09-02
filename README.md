@@ -28,6 +28,9 @@ https://uva.onlinejudge.org/external/5/591.pdf
 UVa 637 - Booklet Printing  
 https://uva.onlinejudge.org/external/6/637.pdf
 
+UVa 642 - Word Amalgamation  
+https://uva.onlinejudge.org/external/6/642.pdf
+
 UVa 1225 - Digit Counting  
 https://uva.onlinejudge.org/external/12/1225.pdf
 
