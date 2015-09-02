@@ -173,5 +173,5 @@ https://uva.onlinejudge.org/external/120/12019.pdf
 UVa 12032 - The Monkey and the Oiled Bamboo  
 https://uva.onlinejudge.org/external/120/12032.pdf
 
-UVa 12503 - Robot Instructions  
+UVa 12503 - Robot Instructions  
 https://uva.onlinejudge.org/external/125/12503.pdf
