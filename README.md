@@ -50,8 +50,23 @@ https://uva.onlinejudge.org/external/16/1645.pdf
 UVa 10019 - Funny Encryption Method  
 https://uva.onlinejudge.org/external/100/10019.pdf
 
+UVa 10035 - Primary Arithmetic  
+https://uva.onlinejudge.org/external/100/10035.pdf
+
+UVa 10038 - Jolly Jumpers  
+https://uva.onlinejudge.org/external/100/10038.pdf
+
+UVa 10055 - Hashmat the Brave Warrior  
+https://uva.onlinejudge.org/external/100/10055.pdf
+
 UVa 10071 - Back to High School Physics  
 https://uva.onlinejudge.org/external/100/10071.pdf
+
+UVa 10189 - Minesweeper  
+https://uva.onlinejudge.org/external/101/10189.pdf
+
+UVa 10300 - Ecological Premium  
+https://uva.onlinejudge.org/external/103/10300.pdf
 
 UVa 10420 - List of Conquests  
 https://uva.onlinejudge.org/external/104/10420.pdf
