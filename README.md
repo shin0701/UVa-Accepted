@@ -62,11 +62,20 @@ https://uva.onlinejudge.org/external/100/10055.pdf
 UVa 10071 - Back to High School Physics  
 https://uva.onlinejudge.org/external/100/10071.pdf
 
+UVa 10107 - What is the Median?  
+https://uva.onlinejudge.org/external/101/10107.pdf
+
 UVa 10189 - Minesweeper  
 https://uva.onlinejudge.org/external/101/10189.pdf
 
 UVa 10300 - Ecological Premium  
 https://uva.onlinejudge.org/external/103/10300.pdf
+
+UVa 10340 - All in All  
+https://uva.onlinejudge.org/external/103/10340.pdf
+
+UVa 10370 - Above Average  
+https://uva.onlinejudge.org/external/103/10370.pdf
 
 UVa 10420 - List of Conquests  
 https://uva.onlinejudge.org/external/104/10420.pdf
