@@ -1,6 +1,12 @@
 # UVa-Accepted
 
 
+UVa 113 - Power of Cryptography  
+https://uva.onlinejudge.org/external/1/113.pdf
+
+UVa 136 - Ugly Numbers  
+https://uva.onlinejudge.org/external/1/136.pdf
+
 UVa 272 - TEX Quotes  
 https://uva.onlinejudge.org/external/2/272.pdf
 
@@ -9,6 +15,9 @@ https://uva.onlinejudge.org/external/2/299.pdf
 
 UVa 344 - Roman Digititis  
 https://uva.onlinejudge.org/external/3/344.pdf
+
+UVa 445 - Marvelous Mazes  
+https://uva.onlinejudge.org/external/4/445.pdf
 
 UVa 483 - Word Scramble  
 https://uva.onlinejudge.org/external/4/483.pdf
@@ -47,6 +56,9 @@ https://uva.onlinejudge.org/external/12/1225.pdf
 UVa 1645 - Count  
 https://uva.onlinejudge.org/external/16/1645.pdf
 
+UVa 10018 - Reverse and Add  
+https://uva.onlinejudge.org/external/100/10018.pdf
+
 UVa 10019 - Funny Encryption Method  
 https://uva.onlinejudge.org/external/100/10019.pdf
 
@@ -61,6 +73,9 @@ https://uva.onlinejudge.org/external/100/10055.pdf
 
 UVa 10071 - Back to High School Physics  
 https://uva.onlinejudge.org/external/100/10071.pdf
+
+UVa 10082 - WERTYU  
+https://uva.onlinejudge.org/external/100/10082.pdf
 
 UVa 10107 - What is the Median?  
 https://uva.onlinejudge.org/external/101/10107.pdf
@@ -80,8 +95,14 @@ https://uva.onlinejudge.org/external/103/10370.pdf
 UVa 10420 - List of Conquests  
 https://uva.onlinejudge.org/external/104/10420.pdf
 
+UVa 10921 - Find the Telephone  
+https://uva.onlinejudge.org/external/109/10921.pdf
+
 UVa 10924 - Prime Words  
 https://uva.onlinejudge.org/external/109/10924.pdf
+
+UVa 10970 - Big Chocolate  
+https://uva.onlinejudge.org/external/109/10970.pdf
 
 UVa 11172 - Relational Operator  
 https://uva.onlinejudge.org/external/111/11172.pdf
