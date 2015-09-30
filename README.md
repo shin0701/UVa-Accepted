@@ -25,6 +25,9 @@ https://uva.onlinejudge.org/external/4/483.pdf
 UVa 484 - The Department of Redundancy Department  
 https://uva.onlinejudge.org/external/4/484.pdf
 
+UVa 541 - Error Correction  
+https://uva.onlinejudge.org/external/5/541.pdf
+
 UVa 575 - Skew Binary  
 https://uva.onlinejudge.org/external/5/575.pdf
 
@@ -100,6 +103,9 @@ https://uva.onlinejudge.org/external/109/10921.pdf
 
 UVa 10924 - Prime Words  
 https://uva.onlinejudge.org/external/109/10924.pdf
+
+UVa 10929 - You can say 11  
+https://uva.onlinejudge.org/external/109/10929.pdf
 
 UVa 10970 - Big Chocolate  
 https://uva.onlinejudge.org/external/109/10970.pdf
