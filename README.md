@@ -25,6 +25,9 @@ https://uva.onlinejudge.org/external/4/483.pdf
 UVa 484 - The Department of Redundancy Department  
 https://uva.onlinejudge.org/external/4/484.pdf
 
+UVa 490 - Rotating Sentences  
+https://uva.onlinejudge.org/external/4/490.pdf
+
 UVa 541 - Error Correction  
 https://uva.onlinejudge.org/external/5/541.pdf
 
@@ -92,11 +95,20 @@ https://uva.onlinejudge.org/external/103/10300.pdf
 UVa 10340 - All in All  
 https://uva.onlinejudge.org/external/103/10340.pdf
 
+UVa 10346 - Peter's Smokes  
+https://uva.onlinejudge.org/external/103/10346.pdf
+
 UVa 10370 - Above Average  
 https://uva.onlinejudge.org/external/103/10370.pdf
 
 UVa 10420 - List of Conquests  
 https://uva.onlinejudge.org/external/104/10420.pdf
+
+UVa 10469 - To Carry or not to Carry  
+https://uva.onlinejudge.org/external/104/10469.pdf
+
+UVa 10812 - Beat the Spread!  
+https://uva.onlinejudge.org/external/108/10812.pdf
 
 UVa 10921 - Find the Telephone  
 https://uva.onlinejudge.org/external/109/10921.pdf
