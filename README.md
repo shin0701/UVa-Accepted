@@ -51,6 +51,7 @@
 [UVa 10019 - Funny Encryption Method](https://uva.onlinejudge.org/external/100/10019.pdf)  
 [UVa 10035 - Primary Arithmetic](https://uva.onlinejudge.org/external/100/10035.pdf)  
 [UVa 10038 - Jolly Jumpers](https://uva.onlinejudge.org/external/100/10038.pdf)  
+[UVa 10050 - Hartals](https://uva.onlinejudge.org/external/100/10050.pdf)  
 [UVa 10055 - Hashmat the Brave Warrior](https://uva.onlinejudge.org/external/100/10055.pdf)  
 [UVa 10071 - Back to High School Physics](https://uva.onlinejudge.org/external/100/10071.pdf)  
 [UVa 10082 - WERTYU](https://uva.onlinejudge.org/external/100/10082.pdf)  
@@ -58,6 +59,9 @@
 ## Volume 101 (10100-10199)
 [UVa 10107 - What is the Median?](https://uva.onlinejudge.org/external/101/10107.pdf)  
 [UVa 10189 - Minesweeper](https://uva.onlinejudge.org/external/101/10189.pdf)  
+
+## Volume 102 (10200-10299)
+[UVa 10260 - Soundex](https://uva.onlinejudge.org/external/102/10260.pdf)  
 
 ## Volume 103 (10300-10399)
 [UVa 10300 - Ecological Premium](https://uva.onlinejudge.org/external/103/10300.pdf) 
@@ -123,6 +127,7 @@
 [UVa 11799 - Horror Dash](https://uva.onlinejudge.org/external/117/11799.pdf)  
 
 ## Volume 118 (11800-11899)
+[UVa 11805 - Bafana Bafana](https://uva.onlinejudge.org/external/118/11805.pdf)  
 [UVa 11830 - Contract Revision](https://uva.onlinejudge.org/external/118/11830.pdf)  
 [UVa 11839 - Optical Reader](https://uva.onlinejudge.org/external/118/11839.pdf)  
 [UVa 11849 - CD](https://uva.onlinejudge.org/external/118/11849.pdf)  
