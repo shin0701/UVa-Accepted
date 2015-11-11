@@ -2,6 +2,7 @@
 
 
 ## Volume 1 (100-199)
+[UVa 105 - The Skyline Problem](https://uva.onlinejudge.org/external/1/105.pdf)  
 [UVa 113 - Power of Cryptography](https://uva.onlinejudge.org/external/1/113.pdf)  
 [UVa 136 - Ugly Numbers](https://uva.onlinejudge.org/external/1/136.pdf)  
 
@@ -11,11 +12,13 @@
 
 ## Volume 3 (300-399)
 [UVa 344 - Roman Digititis](https://uva.onlinejudge.org/external/3/344.pdf)  
+[UVa 350 - Pseudo-Random Numbers](https://uva.onlinejudge.org/external/3/350.pdf)  
 
 ## Volume 4 (400-499)
 [UVa 445 - Marvelous Mazes](https://uva.onlinejudge.org/external/4/445.pdf)  
 [UVa 483 - Word Scramble](https://uva.onlinejudge.org/external/4/483.pdf)  
 [UVa 484 - The Department of Redundancy Department](https://uva.onlinejudge.org/external/4/484.pdf)  
+[UVa 488 - Triangle Wave](https://uva.onlinejudge.org/external/4/488.pdf)  
 [UVa 490 - Rotating Sentences](https://uva.onlinejudge.org/external/4/490.pdf)  
 
 ## Volume 5 (500-599)
@@ -43,6 +46,7 @@
 [UVa 1645 - Count](https://uva.onlinejudge.org/external/16/1645.pdf)  
 
 ## Volume 100 (10000-10099)
+[UVa 10013 - Super long sums](https://uva.onlinejudge.org/external/100/10013.pdf)  
 [UVa 10018 - Reverse and Add](https://uva.onlinejudge.org/external/100/10018.pdf)  
 [UVa 10019 - Funny Encryption Method](https://uva.onlinejudge.org/external/100/10019.pdf)  
 [UVa 10035 - Primary Arithmetic](https://uva.onlinejudge.org/external/100/10035.pdf)  
@@ -56,22 +60,29 @@
 [UVa 10189 - Minesweeper](https://uva.onlinejudge.org/external/101/10189.pdf)  
 
 ## Volume 103 (10300-10399)
-[UVa 10300 - Ecological Premium](https://uva.onlinejudge.org/external/103/10300.pdf)  
+[UVa 10300 - Ecological Premium](https://uva.onlinejudge.org/external/103/10300.pdf) 
+[UVa 10327 - Flip Sort](https://uva.onlinejudge.org/external/103/10327.pdf) 
 [UVa 10340 - All in All](https://uva.onlinejudge.org/external/103/10340.pdf)  
 [UVa 10346 - Peter's Smokes](https://uva.onlinejudge.org/external/103/10346.pdf)  
 [UVa 10370 - Above Average](https://uva.onlinejudge.org/external/103/10370.pdf)  
 
 ## Volume 104 (10400-10499)
 [UVa 10420 - List of Conquests](https://uva.onlinejudge.org/external/104/10420.pdf)  
+[UVa 10424 - Love Calculator](https://uva.onlinejudge.org/external/104/10424.pdf)  
 [UVa 10469 - To Carry or not to Carry](https://uva.onlinejudge.org/external/104/10469.pdf)  
+
+## Volume 105 (10500-10599)
+[UVa 10591 - Happy Number](https://uva.onlinejudge.org/external/105/10591.pdf)  
 
 ## Volume 108 (10800-10899)
 [UVa 10812 - Beat the Spread!](https://uva.onlinejudge.org/external/108/10812.pdf)  
 
 ## Volume 109 (10900-10999)
+[UVa 10905 - Children's Game](https://uva.onlinejudge.org/external/109/10905.pdf)  
 [UVa 10921 - Find the Telephone](https://uva.onlinejudge.org/external/109/10921.pdf)  
 [UVa 10924 - Prime Words](https://uva.onlinejudge.org/external/109/10924.pdf)  
 [UVa 10929 - You can say 11](https://uva.onlinejudge.org/external/109/10929.pdf)  
+[UVa 10954 - Add All](https://uva.onlinejudge.org/external/109/10954.pdf)  
 [UVa 10970 - Big Chocolate](https://uva.onlinejudge.org/external/109/10970.pdf)  
 
 ## Volume 110 (11000-11099)
@@ -98,6 +109,7 @@
 [UVa 11588 - Image Coding](https://uva.onlinejudge.org/external/115/11588.pdf)  
 
 ## Volume 116 (11600-11699)
+[UVa 11636 - Hello World!](https://uva.onlinejudge.org/external/116/11636.pdf)  
 [UVa 11650 - Mirror Clock](https://uva.onlinejudge.org/external/116/11650.pdf)  
 [UVa 11677 - Alarm Clock](https://uva.onlinejudge.org/external/116/11677.pdf)  
 
