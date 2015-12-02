@@ -4,6 +4,7 @@
 ## Volume 1 (100-199)
 [UVa 105 - The Skyline Problem](https://uva.onlinejudge.org/external/1/105.pdf)  
 [UVa 113 - Power of Cryptography](https://uva.onlinejudge.org/external/1/113.pdf)  
+[UVa 119 - Greedy Gift Givers](https://uva.onlinejudge.org/external/1/119.pdf)  
 [UVa 136 - Ugly Numbers](https://uva.onlinejudge.org/external/1/136.pdf)  
 
 ## Volume 2 (200-299)
@@ -23,6 +24,7 @@
 
 ## Volume 5 (500-599)
 [UVa 541 - Error Correction](https://uva.onlinejudge.org/external/5/541.pdf)  
+[UVa 573 - The Snail](https://uva.onlinejudge.org/external/5/573.pdf)  
 [UVa 575 - Skew Binary](https://uva.onlinejudge.org/external/5/575.pdf)  
 [UVa 576 - Haiku Review](https://uva.onlinejudge.org/external/5/576.pdf)  
 [UVa 579 - Clock Hands](https://uva.onlinejudge.org/external/5/579.pdf)  
@@ -58,13 +60,16 @@
 
 ## Volume 101 (10100-10199)
 [UVa 10107 - What is the Median?](https://uva.onlinejudge.org/external/101/10107.pdf)  
+[UVa 10137 - The Trip](https://uva.onlinejudge.org/external/101/10137.pdf)  
 [UVa 10189 - Minesweeper](https://uva.onlinejudge.org/external/101/10189.pdf)  
 
 ## Volume 102 (10200-10299)
+[UVa 10222 - Decode the Mad man](https://uva.onlinejudge.org/external/102/10222.pdf)  
 [UVa 10260 - Soundex](https://uva.onlinejudge.org/external/102/10260.pdf)  
 
 ## Volume 103 (10300-10399)
-[UVa 10300 - Ecological Premium](https://uva.onlinejudge.org/external/103/10300.pdf) 
+[UVa 10300 - Ecological Premium](https://uva.onlinejudge.org/external/103/10300.pdf)  
+[UVa 10302 - Summation of Polynomials](https://uva.onlinejudge.org/external/103/10302.pdf)  
 [UVa 10327 - Flip Sort](https://uva.onlinejudge.org/external/103/10327.pdf) 
 [UVa 10340 - All in All](https://uva.onlinejudge.org/external/103/10340.pdf)  
 [UVa 10346 - Peter's Smokes](https://uva.onlinejudge.org/external/103/10346.pdf)  
@@ -74,8 +79,10 @@
 [UVa 10420 - List of Conquests](https://uva.onlinejudge.org/external/104/10420.pdf)  
 [UVa 10424 - Love Calculator](https://uva.onlinejudge.org/external/104/10424.pdf)  
 [UVa 10469 - To Carry or not to Carry](https://uva.onlinejudge.org/external/104/10469.pdf)  
+[UVa 10474 - Where is the Marble?](https://uva.onlinejudge.org/external/104/10474.pdf)  
 
 ## Volume 105 (10500-10599)
+[UVa 10550 - Combination Lock](https://uva.onlinejudge.org/external/105/10550.pdf)  
 [UVa 10591 - Happy Number](https://uva.onlinejudge.org/external/105/10591.pdf)  
 
 ## Volume 108 (10800-10899)
