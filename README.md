@@ -39,6 +39,7 @@
 [UVa 706 - LCD Display](https://uva.onlinejudge.org/external/7/706.pdf)  
 
 ## Volume 8 (800-899)
+[UVa 846 - Steps](https://uva.onlinejudge.org/external/8/846.pdf)  
 [UVa 865 - Substitution Cypher](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=806)  
 
 ## Volume 12 (1200-1299)
@@ -78,7 +79,9 @@
 ## Volume 104 (10400-10499)
 [UVa 10420 - List of Conquests](https://uva.onlinejudge.org/external/104/10420.pdf)  
 [UVa 10424 - Love Calculator](https://uva.onlinejudge.org/external/104/10424.pdf)  
+[UVa 10432 - Polygon Inside A Circle](https://uva.onlinejudge.org/external/104/10432.pdf)  
 [UVa 10469 - To Carry or not to Carry](https://uva.onlinejudge.org/external/104/10469.pdf)  
+[UVa 10473 - Simple Base Conversion](https://uva.onlinejudge.org/external/104/10473.pdf)  
 [UVa 10474 - Where is the Marble?](https://uva.onlinejudge.org/external/104/10474.pdf)  
 
 ## Volume 105 (10500-10599)
@@ -101,6 +104,7 @@
 
 ## Volume 111 (11100-11199)
 [UVa 11172 - Relational Operator](https://uva.onlinejudge.org/external/111/11172.pdf)  
+[UVa 11185 - Ternary](https://uva.onlinejudge.org/external/111/11185.pdf)  
 
 ## Volume 112 (11200-11299)
 [UVa 11207 - The easiest way](https://uva.onlinejudge.org/external/112/11207.pdf)  
@@ -156,6 +160,12 @@
 [UVa 12015 - Google is Feeling Lucky](https://uva.onlinejudge.org/external/120/12015.pdf)  
 [UVa 12019 - Doom's Day Algorithm](https://uva.onlinejudge.org/external/120/12019.pdf)  
 [UVa 12032 - The Monkey and the Oiled Bamboo](https://uva.onlinejudge.org/external/120/12032.pdf)  
+
+## Volume 123 (12300-12399)
+[UVa 12372 - Packing for Holiday](https://uva.onlinejudge.org/external/123/12372.pdf)  
+
+## Volume 124 (12400-12499)
+[UVa 12403 - Save Setu](https://uva.onlinejudge.org/external/124/12403.pdf)  
 
 ## Volume 125 (12500-12599)
 [UVa 12503 - Robot Instructions](https://uva.onlinejudge.org/external/125/12503.pdf)  
