@@ -16,13 +16,16 @@
 [UVa 350 - Pseudo-Random Numbers](https://uva.onlinejudge.org/external/3/350.pdf)  
 
 ## Volume 4 (400-499)
+[UVa 444 - Encoder and Decoder](https://uva.onlinejudge.org/external/4/444.pdf)  
 [UVa 445 - Marvelous Mazes](https://uva.onlinejudge.org/external/4/445.pdf)  
+[UVa 446 - Kibbles "n" Bits "n" Bits "n" Bits](https://uva.onlinejudge.org/external/4/446.pdf)  
 [UVa 483 - Word Scramble](https://uva.onlinejudge.org/external/4/483.pdf)  
 [UVa 484 - The Department of Redundancy Department](https://uva.onlinejudge.org/external/4/484.pdf)  
 [UVa 488 - Triangle Wave](https://uva.onlinejudge.org/external/4/488.pdf)  
 [UVa 490 - Rotating Sentences](https://uva.onlinejudge.org/external/4/490.pdf)  
 
 ## Volume 5 (500-599)
+[UVa 514 - Rails](https://uva.onlinejudge.org/external/5/514.pdf)  
 [UVa 541 - Error Correction](https://uva.onlinejudge.org/external/5/541.pdf)  
 [UVa 573 - The Snail](https://uva.onlinejudge.org/external/5/573.pdf)  
 [UVa 575 - Skew Binary](https://uva.onlinejudge.org/external/5/575.pdf)  
@@ -121,6 +124,7 @@
 [UVa 11520 - Fill the Square](https://uva.onlinejudge.org/external/115/11520.pdf)  
 [UVa 11530 - SMS Typing](https://uva.onlinejudge.org/external/115/11530.pdf)  
 [UVa 11547 - Automatic Answer](https://uva.onlinejudge.org/external/115/11547.pdf)  
+[UVa 11559 - Event Planning](https://uva.onlinejudge.org/external/115/11559.pdf)  
 [UVa 11588 - Image Coding](https://uva.onlinejudge.org/external/115/11588.pdf)  
 
 ## Volume 116 (11600-11699)
