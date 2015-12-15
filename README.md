@@ -8,6 +8,7 @@
 [UVa 136 - Ugly Numbers](https://uva.onlinejudge.org/external/1/136.pdf)  
 
 ## Volume 2 (200-299)
+[UVa 263 - Number Chains](https://uva.onlinejudge.org/external/2/263.pdf)  
 [UVa 272 - TEX Quotes](https://uva.onlinejudge.org/external/2/272.pdf)  
 [UVa 299 - Train Swapping](https://uva.onlinejudge.org/external/2/299.pdf)  
 
@@ -16,6 +17,8 @@
 [UVa 350 - Pseudo-Random Numbers](https://uva.onlinejudge.org/external/3/350.pdf)  
 
 ## Volume 4 (400-499)
+[UVa 401 - Palindromes](https://uva.onlinejudge.org/external/4/401.pdf)  
+[UVa 424 - Integer Inquiry](https://uva.onlinejudge.org/external/4/424.pdf)  
 [UVa 444 - Encoder and Decoder](https://uva.onlinejudge.org/external/4/444.pdf)  
 [UVa 445 - Marvelous Mazes](https://uva.onlinejudge.org/external/4/445.pdf)  
 [UVa 446 - Kibbles "n" Bits "n" Bits "n" Bits](https://uva.onlinejudge.org/external/4/446.pdf)  
@@ -36,6 +39,7 @@
 ## Volume 6 (600-699)
 [UVa 637 - Booklet Printing](https://uva.onlinejudge.org/external/6/637.pdf)  
 [UVa 642 - Word Amalgamation](https://uva.onlinejudge.org/external/6/642.pdf)  
+[UVa 661 - Blowing Fuses](https://uva.onlinejudge.org/external/6/661.pdf)  
 [UVa 673 - Parentheses Balance](https://uva.onlinejudge.org/external/6/673.pdf)  
 
 ## Volume 7 (700-799)
@@ -99,6 +103,7 @@
 [UVa 10921 - Find the Telephone](https://uva.onlinejudge.org/external/109/10921.pdf)  
 [UVa 10924 - Prime Words](https://uva.onlinejudge.org/external/109/10924.pdf)  
 [UVa 10929 - You can say 11](https://uva.onlinejudge.org/external/109/10929.pdf)  
+[UVa 10945 - Mother bear](https://uva.onlinejudge.org/external/109/10945.pdf)  
 [UVa 10954 - Add All](https://uva.onlinejudge.org/external/109/10954.pdf)  
 [UVa 10970 - Big Chocolate](https://uva.onlinejudge.org/external/109/10970.pdf)  
 
@@ -134,6 +139,7 @@
 
 ## Volume 117 (11700-11799)
 [UVa 11713 - Abstract Names](https://uva.onlinejudge.org/external/117/11713.pdf)  
+[UVa 11716 - Digital Fortress](https://uva.onlinejudge.org/external/117/11716.pdf)  
 [UVa 11727 - Cost Cutting](https://uva.onlinejudge.org/external/117/11727.pdf)  
 [UVa 11734 - Big Number of Teams will Solve This](https://uva.onlinejudge.org/external/117/11734.pdf)  
 [UVa 11743 - Credit Check](https://uva.onlinejudge.org/external/117/11743.pdf)  
