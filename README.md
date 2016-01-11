@@ -52,6 +52,10 @@
 ## Volume 12 (1200-1299)
 [UVa 1225 - Digit Counting](https://uva.onlinejudge.org/external/12/1225.pdf)  
 
+## Volume 15 (1500-1599)
+[UVa 1585 - Score](https://uva.onlinejudge.org/external/15/1585.pdf)  
+[UVa 1586 - Molar mass](https://uva.onlinejudge.org/external/15/1586.pdf)  
+
 ## Volume 16 (1600-1699)
 [UVa 1645 - Count](https://uva.onlinejudge.org/external/16/1645.pdf)  
 
@@ -95,6 +99,9 @@
 [UVa 10550 - Combination Lock](https://uva.onlinejudge.org/external/105/10550.pdf)  
 [UVa 10591 - Happy Number](https://uva.onlinejudge.org/external/105/10591.pdf)  
 
+## Volume 106 (10600-10699)
+[UVa 10684 - The jackpot](https://uva.onlinejudge.org/external/106/10684.pdf)  
+
 ## Volume 108 (10800-10899)
 [UVa 10812 - Beat the Spread!](https://uva.onlinejudge.org/external/108/10812.pdf)  
 
@@ -118,6 +125,10 @@
 [UVa 11207 - The easiest way](https://uva.onlinejudge.org/external/112/11207.pdf)  
 [UVa 11220 - Decoding the message](https://uva.onlinejudge.org/external/112/11220.pdf)  
 [UVa 11233 - Deli Deli](https://uva.onlinejudge.org/external/112/11233.pdf)  
+
+## Volume 113 (11300-11399)
+[UVa 11356 - Dates](https://uva.onlinejudge.org/external/113/11356.pdf)  
+[UVa 11364 - Parking](https://uva.onlinejudge.org/external/113/11364.pdf)  
 
 ## Volume 114 (11400-11499)
 [UVa 11455 - Behold my quadrangle](https://uva.onlinejudge.org/external/114/11455.pdf)  
@@ -170,6 +181,10 @@
 [UVa 12015 - Google is Feeling Lucky](https://uva.onlinejudge.org/external/120/12015.pdf)  
 [UVa 12019 - Doom's Day Algorithm](https://uva.onlinejudge.org/external/120/12019.pdf)  
 [UVa 12032 - The Monkey and the Oiled Bamboo](https://uva.onlinejudge.org/external/120/12032.pdf)  
+
+## Volume 122 (12200-12299)
+[UVa 12250 - Language Detection](https://uva.onlinejudge.org/external/122/12250.pdf)  
+[UVa 12279 - Emoogle Balance](https://uva.onlinejudge.org/external/122/12279.pdf)  
 
 ## Volume 123 (12300-12399)
 [UVa 12372 - Packing for Holiday](https://uva.onlinejudge.org/external/123/12372.pdf)  
