@@ -100,7 +100,11 @@
 [UVa 10591 - Happy Number](https://uva.onlinejudge.org/external/105/10591.pdf)  
 
 ## Volume 106 (10600-10699)
+[UVa 10683 - The decadary watch](https://uva.onlinejudge.org/external/106/10683.pdf)  
 [UVa 10684 - The jackpot](https://uva.onlinejudge.org/external/106/10684.pdf)  
+
+## Volume 107 (10700-10799)
+[UVa 10703 - Free spots](https://uva.onlinejudge.org/external/107/10703.pdf)
 
 ## Volume 108 (10800-10899)
 [UVa 10812 - Beat the Spread!](https://uva.onlinejudge.org/external/108/10812.pdf)  
@@ -127,6 +131,7 @@
 [UVa 11233 - Deli Deli](https://uva.onlinejudge.org/external/112/11233.pdf)  
 
 ## Volume 113 (11300-11399)
+[UVa 11340 - Newspaper](https://uva.onlinejudge.org/external/113/11340.pdf)  
 [UVa 11356 - Dates](https://uva.onlinejudge.org/external/113/11356.pdf)  
 [UVa 11364 - Parking](https://uva.onlinejudge.org/external/113/11364.pdf)  
 
