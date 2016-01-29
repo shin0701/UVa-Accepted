@@ -9,7 +9,11 @@
 * [Volume 7 (700-799)](#volume-7-700-799)
 * [Volume 8 (800-899)](#volume-8-800-899)
 * [Volume 9 (900-999)](#volume-9-900-999)
+* [Volume 10 (1000-1099)](#volume-10-1000-1099)
+* [Volume 11 (1100-1199)](#volume-11-1100-1199)
 * [Volume 12 (1200-1299)](#volume-12-1200-1299)
+* [Volume 13 (1300-1399)](#volume-13-1300-1399)
+* [Volume 14 (1400-1499)](#volume-14-1400-1499)
 * [Volume 15 (1500-1599)](#volume-15-1500-1599)
 * [Volume 16 (1600-1699)](#volume-16-1600-1699)
 * [Volume 100 (10000-10099)](#volume-100-10000-10099)
@@ -94,8 +98,21 @@
 ## Volume 9 (900-999)
 
 
+## Volume 10 (1000-1099)
+
+
+## Volume 11 (1100-1199)
+
+
 ## Volume 12 (1200-1299)
 [UVa 1225 - Digit Counting](https://uva.onlinejudge.org/external/12/1225.pdf)  
+
+
+## Volume 13 (1300-1399)
+[UVa 1339 - Ancient Cipher](https://uva.onlinejudge.org/external/13/1339.pdf)  
+
+## Volume 14 (1400-1499)
+
 
 ## Volume 15 (1500-1599)
 [UVa 1585 - Score](https://uva.onlinejudge.org/external/15/1585.pdf)  
