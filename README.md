@@ -117,6 +117,7 @@
 ## Volume 15 (1500-1599)
 [UVa 1585 - Score](https://uva.onlinejudge.org/external/15/1585.pdf)  
 [UVa 1586 - Molar mass](https://uva.onlinejudge.org/external/15/1586.pdf)  
+[UVa 1587 - Box](https://uva.onlinejudge.org/external/15/1587.pdf)  
 
 ## Volume 16 (1600-1699)
 [UVa 1645 - Count](https://uva.onlinejudge.org/external/16/1645.pdf)  
@@ -181,6 +182,7 @@
 [UVa 10970 - Big Chocolate](https://uva.onlinejudge.org/external/109/10970.pdf)  
 
 ## Volume 110 (11000-11099)
+[UVa 11039 - Building designing](https://uva.onlinejudge.org/external/110/11039.pdf)  
 [UVa 11044 - Searching for Nessy](https://uva.onlinejudge.org/external/110/11044.pdf)  
 
 ## Volume 111 (11100-11199)
@@ -255,6 +257,7 @@
 [UVa 12279 - Emoogle Balance](https://uva.onlinejudge.org/external/122/12279.pdf)  
 
 ## Volume 123 (12300-12399)
+[UVa 12364 - In Braille](https://uva.onlinejudge.org/external/123/12364.pdf)  
 [UVa 12372 - Packing for Holiday](https://uva.onlinejudge.org/external/123/12372.pdf)  
 
 ## Volume 124 (12400-12499)
