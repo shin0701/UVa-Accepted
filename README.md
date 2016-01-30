@@ -58,12 +58,14 @@
 [UVa 299 - Train Swapping](https://uva.onlinejudge.org/external/2/299.pdf)  
 
 ## Volume 3 (300-399)
+[UVa 320 - Border](https://uva.onlinejudge.org/external/3/320.pdf)  
 [UVa 344 - Roman Digititis](https://uva.onlinejudge.org/external/3/344.pdf)  
 [UVa 350 - Pseudo-Random Numbers](https://uva.onlinejudge.org/external/3/350.pdf)  
 [UVa 394 - Mapmaker](https://uva.onlinejudge.org/external/3/394.pdf)  
 
 ## Volume 4 (400-499)
 [UVa 401 - Palindromes](https://uva.onlinejudge.org/external/4/401.pdf)  
+[UVa 413 - Up and Down Sequences](https://uva.onlinejudge.org/external/4/413.pdf)  
 [UVa 424 - Integer Inquiry](https://uva.onlinejudge.org/external/4/424.pdf)  
 [UVa 444 - Encoder and Decoder](https://uva.onlinejudge.org/external/4/444.pdf)  
 [UVa 445 - Marvelous Mazes](https://uva.onlinejudge.org/external/4/445.pdf)  
@@ -106,7 +108,7 @@
 
 ## Volume 12 (1200-1299)
 [UVa 1225 - Digit Counting](https://uva.onlinejudge.org/external/12/1225.pdf)  
-
+[UVa 1237 - Expert Enough?](https://uva.onlinejudge.org/external/12/1237.pdf)  
 
 ## Volume 13 (1300-1399)
 [UVa 1339 - Ancient Cipher](https://uva.onlinejudge.org/external/13/1339.pdf)  
@@ -159,6 +161,7 @@
 [UVa 10474 - Where is the Marble?](https://uva.onlinejudge.org/external/104/10474.pdf)  
 
 ## Volume 105 (10500-10599)
+[UVa 10530 - Guessing Game](https://uva.onlinejudge.org/external/105/10530.pdf)  
 [UVa 10550 - Combination Lock](https://uva.onlinejudge.org/external/105/10550.pdf)  
 [UVa 10591 - Happy Number](https://uva.onlinejudge.org/external/105/10591.pdf)  
 
@@ -211,6 +214,7 @@
 [UVa 11530 - SMS Typing](https://uva.onlinejudge.org/external/115/11530.pdf)  
 [UVa 11547 - Automatic Answer](https://uva.onlinejudge.org/external/115/11547.pdf)  
 [UVa 11559 - Event Planning](https://uva.onlinejudge.org/external/115/11559.pdf)  
+[UVa 11565 - Simple Equations](https://uva.onlinejudge.org/external/115/11565.pdf)  
 [UVa 11588 - Image Coding](https://uva.onlinejudge.org/external/115/11588.pdf)  
 
 ## Volume 116 (11600-11699)
