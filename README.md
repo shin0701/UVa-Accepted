@@ -130,6 +130,7 @@
 [UVa 10019 - Funny Encryption Method](https://uva.onlinejudge.org/external/100/10019.pdf)  
 [UVa 10035 - Primary Arithmetic](https://uva.onlinejudge.org/external/100/10035.pdf)  
 [UVa 10038 - Jolly Jumpers](https://uva.onlinejudge.org/external/100/10038.pdf)  
+[UVa 10041 - Vito's Family](https://uva.onlinejudge.org/external/100/10041.pdf)  
 [UVa 10050 - Hartals](https://uva.onlinejudge.org/external/100/10050.pdf)  
 [UVa 10055 - Hashmat the Brave Warrior](https://uva.onlinejudge.org/external/100/10055.pdf)  
 [UVa 10071 - Back to High School Physics](https://uva.onlinejudge.org/external/100/10071.pdf)  
@@ -259,6 +260,7 @@
 ## Volume 122 (12200-12299)
 [UVa 12250 - Language Detection](https://uva.onlinejudge.org/external/122/12250.pdf)  
 [UVa 12279 - Emoogle Balance](https://uva.onlinejudge.org/external/122/12279.pdf)  
+[UVa 12289 - One-Two-Three](https://uva.onlinejudge.org/external/122/12289.pdf)  
 
 ## Volume 123 (12300-12399)
 [UVa 12364 - In Braille](https://uva.onlinejudge.org/external/123/12364.pdf)  
@@ -269,6 +271,8 @@
 
 ## Volume 125 (12500-12599)
 [UVa 12503 - Robot Instructions](https://uva.onlinejudge.org/external/125/12503.pdf)  
+[UVa 12554 - A Special "Happy Birthday" Song!!!](https://uva.onlinejudge.org/external/125/12554.pdf)  
+[UVa 12577 - Hajj-e-Akbar](https://uva.onlinejudge.org/external/125/12577.pdf)  
 
 ## Volume 129 (12900-12999)
 [UVa 12959 - Strategy Game](https://uva.onlinejudge.org/external/129/12959.pdf)
