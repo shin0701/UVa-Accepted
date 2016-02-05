@@ -148,6 +148,7 @@
 ## Volume 103 (10300-10399)
 [UVa 10300 - Ecological Premium](https://uva.onlinejudge.org/external/103/10300.pdf)  
 [UVa 10302 - Summation of Polynomials](https://uva.onlinejudge.org/external/103/10302.pdf)  
+[UVa 10324 - Zeros and Ones](https://uva.onlinejudge.org/external/103/10324.pdf)  
 [UVa 10327 - Flip Sort](https://uva.onlinejudge.org/external/103/10327.pdf) 
 [UVa 10340 - All in All](https://uva.onlinejudge.org/external/103/10340.pdf)  
 [UVa 10346 - Peter's Smokes](https://uva.onlinejudge.org/external/103/10346.pdf)  
@@ -196,6 +197,7 @@
 ## Volume 112 (11200-11299)
 [UVa 11207 - The easiest way](https://uva.onlinejudge.org/external/112/11207.pdf)  
 [UVa 11220 - Decoding the message](https://uva.onlinejudge.org/external/112/11220.pdf)  
+[UVa 11223 - O: dah dah dah!](https://uva.onlinejudge.org/external/112/11223.pdf)  
 [UVa 11233 - Deli Deli](https://uva.onlinejudge.org/external/112/11233.pdf)  
 
 ## Volume 113 (11300-11399)
@@ -219,9 +221,12 @@
 [UVa 11588 - Image Coding](https://uva.onlinejudge.org/external/115/11588.pdf)  
 
 ## Volume 116 (11600-11699)
+[UVa 11616 - Roman Numerals](https://uva.onlinejudge.org/external/116/11616.pdf)  
 [UVa 11636 - Hello World!](https://uva.onlinejudge.org/external/116/11636.pdf)  
 [UVa 11650 - Mirror Clock](https://uva.onlinejudge.org/external/116/11650.pdf)  
+[UVa 11661 - Burger Time?](https://uva.onlinejudge.org/external/116/11661.pdf)  
 [UVa 11677 - Alarm Clock](https://uva.onlinejudge.org/external/116/11677.pdf)  
+[UVa 11687 - Digits](https://uva.onlinejudge.org/external/116/11687.pdf)  
 
 ## Volume 117 (11700-11799)
 [UVa 11713 - Abstract Names](https://uva.onlinejudge.org/external/117/11713.pdf)  
@@ -268,6 +273,7 @@
 
 ## Volume 124 (12400-12499)
 [UVa 12403 - Save Setu](https://uva.onlinejudge.org/external/124/12403.pdf)  
+[UVa 12468 - Zapping](https://uva.onlinejudge.org/external/124/12468.pdf)  
 
 ## Volume 125 (12500-12599)
 [UVa 12503 - Robot Instructions](https://uva.onlinejudge.org/external/125/12503.pdf)  
